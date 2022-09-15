@@ -1,5 +1,8 @@
 # 🔦 Ultrasound_Image_Classifications
 
+## 📌 Discription
+
+> ultrasound data들을 이용해서 classification 하는 모델을 구성
 
 ## 🎁 Datasets
 
