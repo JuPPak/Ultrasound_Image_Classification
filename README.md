@@ -6,7 +6,7 @@
 
 ## 🎁 Datasets
 
-### busi structure
+### busi dataset structure
 
 ```
 ├── train
@@ -28,7 +28,7 @@
 ### - busi_classifier
 ```
 # version_0915 
-  기본적인 3 class prediction하는 
+  기본적인 3 class를 prediction하는 코드
   : basic classification (with timm or torchvision)
   : metrics (Acc, ROC curve, AUC, Classfication reports, Confusion Matrix)
   : k-fold validation (StratifiedKFold,..)
