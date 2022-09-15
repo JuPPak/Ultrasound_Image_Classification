@@ -1,1 +1,1 @@
-# Medical_Classifications
+# Ultrasound_Image_Classifications
