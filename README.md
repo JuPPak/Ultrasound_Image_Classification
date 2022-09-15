@@ -2,7 +2,7 @@
 
 ## 📌 Discription
 
-> ultrasound data들을 이용해서 classification 하는 모델을 구성
+> open source로 제공되는 ultrasound data들을 이용해서 classification 하는 모델을 구성해볼 예정
 
 ## 🎁 Datasets
 
